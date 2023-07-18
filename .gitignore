@@ -1,0 +1,28 @@
+# C++ things
+/railway
+/a.out
+/tests
+/manualTests
+
+#See templates at https://github.com/github/gitignore
+
+#C/C++ library and object files
+*.o
+*.a
+*.so
+a.out
+
+# MAC, vim, emacs goofiness
+.DS_STORE
+.DS_STORE?
+*~
+*#
+.#*
+.nfs*
+.*.sw?
+*.bak
+
+#More editor temp files
+._*
+.vscode
+
