@@ -22,6 +22,7 @@ AdjacencyListGraph<V, E, W>::~AdjacencyListGraph() {
     }
 }
 
+
 template <typename V, typename E, typename W>
 vector<V> AdjacencyListGraph<V, E, W>::getVertices() {
     return this->vertices.getKeys();

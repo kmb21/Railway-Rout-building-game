@@ -15,6 +15,7 @@ Player :: Player(int num){
     }
 }
 
+
 Player :: ~Player(){
     delete this->playerGraph;
     this->playerGraph = nullptr;

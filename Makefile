@@ -15,6 +15,7 @@ OFILES = \
 	railwayGUI.o \
 	ioUtils.o \
 	railwayGame.o
+	
 # The header files for the program
 HFILES = $(shell ls -1 *.h gui/*.h)
 

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+
 Dictionary<string, pair<int, int>>* readVertexPositions(string filename) {
     ifstream file(filename);
     string line;

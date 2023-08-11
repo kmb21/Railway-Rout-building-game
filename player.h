@@ -9,6 +9,7 @@ using namespace std;
 #include "goal.h"
 
 
+
 class Player {
 
     public:

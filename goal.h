@@ -12,6 +12,7 @@
 
 using std::string;
 
+
 class Goal {
   public:
     /* Create a new game goal between two vertices on the map

@@ -9,6 +9,7 @@
 #include "goal.h"
 #include <stdexcept>
 
+
 using namespace std;
 
 Goal::Goal(string location1, string location2, string message) {

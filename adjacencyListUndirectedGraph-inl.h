@@ -8,6 +8,7 @@
 
 #pragma once
 
+
 template <typename V, typename E, typename W>
 void AdjacencyListUndirectedGraph<V, E, W>::insertEdge(V src, V dest, E label,
                                                        W weight) {
